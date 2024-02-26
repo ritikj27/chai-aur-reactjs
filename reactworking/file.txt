@@ -1,0 +1,3 @@
+behind the sceen it create dom
+and main dom abd compare apna dom ko
+
